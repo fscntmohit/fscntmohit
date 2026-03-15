@@ -1,5 +1,6 @@
-#About me:
-🎓 B.Tech Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast
+# 💫 About Me:
+* 👋 Hi, I'm **Mohit Yadav**, a **B.Tech student** and passionate **Full Stack Developer**.<br>* 💻 I build **MERN stack applications** with authentication, APIs, and database integration.<br>* 🚀 Experienced in deploying full-stack apps using **Vercel and Render**.<br>* 🧠 Currently learning **backend architecture, system design, and AI-powered applications**.<br>* 🌱 I believe in **learning by building real-world projects**.<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fascinated_mohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fascinate) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ymohit72340) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thefascinate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thefascinate) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mohit-ydv1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ymohit72340@gmail.com) 
