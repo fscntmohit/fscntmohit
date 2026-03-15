@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mohit Yadav 👋<br><br>🎓 B.Tech Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast<br><br>I enjoy building real-world web applications using modern technologies like React, Node.js, and MongoDB. I am passionate about creating scalable software and exploring AI-powered solutions.<br><br>🌍 Interested in Full Stack Development & AI Projects<br><br>🛠 Currently building MERN Stack Applications<br><br>🚀 Deployed projects using Vercel & Render<br><br>📚 Learning advanced backend architecture and system design
-
+👋<br><br>🎓 B.Tech Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fascinated_mohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fascinate) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ymohit72340) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thefascinate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thefascinate) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mohit-ydv1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ymohit72340@gmail.com) 
